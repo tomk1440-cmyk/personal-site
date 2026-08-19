@@ -8,4 +8,14 @@
         }
         h1 {
             font-family: 'Courier New', Courier, monospace;
+            padding-bottom: 5%;
+        }
+        p {
+            font-family: Roboto;
+        }
+        #jaroslav {
+            text-decoration: underline;
+            text-shadow: 10px;
+            font-weight: bolder;
+            padding-bottom: 5%;
         }
